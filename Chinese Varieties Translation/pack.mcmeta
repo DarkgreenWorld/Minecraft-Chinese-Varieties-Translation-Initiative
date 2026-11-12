@@ -76,6 +76,16 @@
             "name":"§e贛語§r",
             "region":"§e中國大陸§r",
             "bidirectional": false
+        },
+        "cmn_latn":{
+            "name":"§eBiāozhǔn Hànyǔ (Hànyǔ Pīnyīn)§r",
+            "region":"§eZhōngguó Dàlù§r",
+            "bidirectional": false
+        },
+        "cmn_bopo":{
+            "name":"§eㄅㄧㄠ ㄓㄨㄣˇ ㄏㄢˋ ㄩˇ (ㄓㄨˋ ㄧㄣ ㄈㄨˊ ㄏㄠˋ)§r",
+            "region":"§eㄊㄞˊ ㄨㄢ§r",
+            "bidirectional": false
         }
     }
 }
