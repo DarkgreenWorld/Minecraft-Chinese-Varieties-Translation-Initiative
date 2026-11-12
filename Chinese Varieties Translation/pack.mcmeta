@@ -77,6 +77,16 @@
             "region":"§e中國大陸§r",
             "bidirectional": false
         },
+        "zh_sg":{
+            "name":"§e简体中文§r",
+            "region":"§e新加坡§r",
+            "bidirectional": false
+        },
+        "zh_mo":{
+            "name":"§e繁體中文§r",
+            "region":"§e澳门特别行改区§r",
+            "bidirectional": false
+        },
         "cmn_latn":{
             "name":"§eBiāozhǔn Hànyǔ (Hànyǔ Pīnyīn)§r",
             "region":"§eZhōngguó Dàlù§r",
