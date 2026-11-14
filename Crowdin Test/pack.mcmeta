@@ -1,0 +1,101 @@
+{
+    "pack": {
+        "description": "Minecraft Chinese Varieties Translation Initiative",
+        "pack_format": 97,
+        "supported_formats": [ 11, 97 ],
+        "min_format": 11,
+        "max_format": [ 97, 1 ]
+    },
+    "language":{
+        "yue_cn":{
+            "name":"§e粤語§r",
+            "region":"§e中國大陸§r",
+            "bidirectional": false
+        },
+        "yue_hk":{
+            "name":"§e粤語§r",
+            "region":"§e香港特别行政區§r",
+            "bidirectional": false
+        },
+        "yue_mo":{
+            "name":"§e粤語§r",
+            "region":"§e澳門特别行政区§r",
+            "bidirectional": false
+        },
+        "nan_cn":{
+            "name":"§e閩南語§r",
+            "region":"§e中國大陸§r",
+            "bidirectional": false
+        },
+        "nan_tw":{
+            "name":"§e臺灣閩南語§r",
+            "region":"§e臺灣§r",
+            "bidirectional": false
+        },
+        "hak_cn":{
+            "name":"§e客家語§r",
+            "region":"§e中國大陸§r",
+            "bidirectional": false
+        },
+        "hak_tw":{
+            "name":"§e客家語§r",
+            "region":"§e臺灣§r",
+            "bidirectional": false
+        },
+        "wuu_cn":{
+            "name":"§e吴語§r",
+            "region":"§e中國大陸§r",
+            "bidirectional": false
+        },
+        "cjy_cn":{
+            "name":"§e晋语§r",
+            "region":"§e中国大陆§r",
+            "bidirectional": false
+        },
+        "hsn_cn":{
+            "name":"§e湘語§r",
+            "region":"§e中國大陸§r",
+            "bidirectional": false
+        },
+        "cnp_cn":{
+            "name":"§e桂北平話§r",
+            "region":"§e中國大陸§r",
+            "bidirectional": false
+        },
+        "csp_cn":{
+            "name":"§e桂南平話§r",
+            "region":"§e中國大陸§r",
+            "bidirectional": false
+        },
+        "czh_cn":{
+            "name":"§e徽語§r",
+            "region":"§e中國大陸§r",
+            "bidirectional": false
+        },
+        "gan_cn":{
+            "name":"§e贛語§r",
+            "region":"§e中國大陸§r",
+            "bidirectional": false
+        },
+        "zh_sg":{
+            "name":"§e简体中文§r",
+            "region":"§e新加坡§r",
+            "bidirectional": false
+        },
+        "zh_mo":{
+            "name":"§e繁體中文§r",
+            "region":"§e澳门特别行改区§r",
+            "bidirectional": false
+        },
+        "cmn_latn":{
+            "name":"§eBiāozhǔn Hànyǔ (Hànyǔ Pīnyīn)§r",
+            "region":"§eZhōngguó Dàlù§r",
+            "bidirectional": false
+        },
+        "cmn_bopo":{
+            "name":"§eㄅㄧㄠ ㄓㄨㄣˇ ㄏㄢˋ ㄩˇ (ㄓㄨˋ ㄧㄣ ㄈㄨˊ ㄏㄠˋ)§r",
+            "region":"§eㄊㄞˊ ㄨㄢ§r",
+            "bidirectional": false
+        }
+    }
+}
