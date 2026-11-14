@@ -1,6 +1,8 @@
 ## Minecraft汉语方言翻译资源包
 ## Minecraft Chinese Varieties Translation Resource Pack
 
+[![Crowdin](https://badges.crowdin.net/minecraft-chinese-varieties-translation/localized.svg)](https://crowdin.com/project/minecraft-chinese-varieties-translation)
+
 这里是Minecraft汉语方言翻译资源包的仓库，欢迎大家来一起贡献翻译!
 
 This is the repository for the Minecraft Chinese varieties translation resource pack. Everyone is welcome to contribute translations!
