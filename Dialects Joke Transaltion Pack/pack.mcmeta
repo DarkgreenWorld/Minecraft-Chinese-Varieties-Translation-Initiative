@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "description": "Minecraft Chinese Varieties Translation Initiative",
+        "pack_format": 97,
+        "supported_formats": [ 11, 97 ],
+        "min_format": 11,
+        "max_format": [ 97, 1 ]
+    },
+    "language":{
+        "cmn_guanzh":{
+            "name":"§e关中话§r",
+            "region":"§e陕西关中, 中国§r",
+            "bidirectional": false
+        }
+    }
+}

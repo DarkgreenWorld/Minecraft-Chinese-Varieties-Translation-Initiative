@@ -96,11 +96,6 @@
             "name":"§eㄅㄧㄠ ㄓㄨㄣˇ ㄏㄢˋ ㄩˇ (ㄓㄨˋ ㄧㄣ ㄈㄨˊ ㄏㄠˋ)§r",
             "region":"§eㄊㄞˊ ㄨㄢ§r",
             "bidirectional": false
-        },
-        "cmn_guanzh":{
-            "name":"§e关中话§r",
-            "region":"§e陕西关中, 中国§r",
-            "bidirectional": false
         }
     }
 }
