@@ -3,7 +3,7 @@
 
 [![Crowdin](https://badges.crowdin.net/minecraft-chinese-varieties-translation/localized.svg)](https://crowdin.com/project/minecraft-chinese-varieties-translation) 
 [![Discord](https://github.com/user-attachments/assets/2da65231-b5d6-4ab1-a0a8-508f4bf0c013)](https://discord.gg/9TbU3Rap4e) 
-[![QQ](https://github.com/user-attachments/assets/ec91ea77-14d2-4507-a54c-6199ef362a8e)]( https://qm.qq.com/q/xQhlT5gIYo)
+[![QQ](https://github.com/user-attachments/assets/ec91ea77-14d2-4507-a54c-6199ef362a8e)](https://qm.qq.com/q/nHkG9Kfkqs)
 
 这里是Minecraft汉语方言翻译资源包的仓库，欢迎大家来一起贡献翻译!
 
